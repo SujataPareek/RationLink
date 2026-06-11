@@ -4,7 +4,7 @@
 
 RationLink is a smart ration distribution and monitoring system designed to improve transparency, beneficiary verification, transaction tracking, and misuse detection in the Public Distribution System (PDS).
 
-The project aims to digitize ration distribution workflows and provide better monitoring mechanisms to reduce irregularities and improve accountability.
+The project focuses on digitizing distribution workflows, improving accountability, and reducing irregularities through structured data management and monitoring mechanisms.
 
 ## Problem Statement
 
@@ -16,7 +16,7 @@ Traditional ration distribution systems often face challenges such as:
 * Difficulty in tracking transactions
 * Limited monitoring and accountability
 
-RationLink proposes a technology-driven solution to streamline distribution processes and improve operational efficiency.
+RationLink aims to address these issues through a centralized digital management system.
 
 ## Key Features
 
@@ -24,33 +24,34 @@ RationLink proposes a technology-driven solution to streamline distribution proc
 * Transaction tracking
 * Distribution monitoring
 * Workflow management
-* Misuse detection support
 * Digital record management
+* Misuse detection support
 
 ## Technology Stack
 
-* Database Systems (SQL)
+* SQL Database
 * Backend Development Concepts
-* AI-Based Monitoring Concepts
 * Data Management
+* Monitoring Workflows
 
 ## Project Status
 
-Currently in development.
+Project Status: In Development
 
 Completed:
 
 * Requirement Analysis
-* System Design
-* Database Planning
+* Database Design
 * Workflow Design
+* System Architecture Planning
 
 In Progress:
 
 * Database Implementation
-* Monitoring Module
 * Authentication Module
+* Monitoring Dashboard
 
 ## Author
 
 Sujata Pareek
+Jaypee Institute of Information Technology
