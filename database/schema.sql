@@ -1,2 +1,0 @@
--- Database schema under development
--- RationLink Smart Ration Distribution System
