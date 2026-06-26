@@ -1,4 +1,4 @@
-# RationLink: Smart Public Distribution System with AI, Computer Vision, and Blockchain Ledger Verification
+# RationLink — AI-Powered Smart Public Distribution System
 
 ## Professional Introduction
 RationLink is an enterprise-grade digital transformation platform designed for the Public Distribution System (PDS). By integrating client-side face biometric authentication, machine learning demand forecasting, computer vision-based grain quality assessment, and a cryptographically chained transaction ledger, the system establishes a secure, audit-ready, and transparent framework for distribution of subsidized food grains. It is designed to run in hybrid connectivity environments, supporting edge-depot operations with SQLite storage and background synchronization to Google Cloud Firestore.
